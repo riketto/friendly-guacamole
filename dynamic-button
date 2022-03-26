@@ -1,0 +1,4 @@
+function get_userdata(get_current_user_id()) {
+
+<?php echo '<button onclick="user_url' . $redirect_to . '\'">' click '</button>'; ?>
+}
